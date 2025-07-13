@@ -16,24 +16,24 @@ Motivated and enthusiastic programmer seeking opportunities to work on real-worl
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Java, JavaScript
-- **Frameworks & Libraries**: React, Express.js, Node.js
-- **Databases**: MongoDB, MySQL
-- **Web**: HTML, CSS, Bootstrap
-- **Tools**: Git, NetBeans
-- **Other**: DSA with Java, Time Management, Teamwork, Innovation
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🏆 Achievements & Certifications
+## 💻 Competitive Programming Profiles
 
-- **HackerRank JAVA BASIC** Certification *(2024)*
-- **Java Full Stack Developer** (Udemy, 2024)
-- **Full Stack Web Development** (RCPL, 09/2024 – 11/2024)
-- **HTML, JavaScript & Bootstrap** (YouAccel Udemy, 2024)
-- **Solved 150+ DSA Questions on LeetCode**
-- **Certifications in Java** (Great Learning)
-- **Training Certificates from RCPL** in Full Stack & DSA with C
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20150%2B%20Questions-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HarshSahu1109/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-JAVA%20Basic%20Certified-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/harshsahu1109)
 
 ---
 
@@ -58,6 +58,3 @@ Motivated and enthusiastic programmer seeking opportunities to work on real-worl
 ## 👨‍💻 HackerRank
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/harshsahu1109)
-
----
-
