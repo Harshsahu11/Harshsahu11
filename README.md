@@ -11,7 +11,7 @@
 <!-- Animated Typing -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Developer;700%2B+DSA+Problems+Solved;Backend+Development+Enthusiast;Open+Source+Learner;Building+Scalable+Applications;Passionate+About+Problem+Solving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Developer;500%2B+DSA+Problems+Solved;Backend+Development+Enthusiast;Open+Source+Learner;Building+Scalable+Applications;Passionate+About+Problem+Solving" />
 </p>
 
 ---
